@@ -1,2 +1,1 @@
-# printf
 # simple_shell
